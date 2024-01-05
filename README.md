@@ -22,8 +22,8 @@
 Before you can run the application, ensure you have Python installed along with the necessary libraries. Follow these steps to set up the project:
 
 ```bash
-git clone https://github.com/Blaqadonis/chat-with-your-pdf.git
-cd chat-with-your-pdf
+git clone https://github.com/Blaqadonis/chat_with_your_pdf.git
+cd chat_with_your_pdf
 pip install -r requirements.txt
 ```
 
